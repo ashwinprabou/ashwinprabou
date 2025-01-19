@@ -25,7 +25,7 @@ At **SBHacks XI**, my team and I created a project that won the **Best Use of AI
 - Developed the backend using **Flask** for seamless client-side event handling.  
 - Enhanced the frontend with **React** and **Tailwind CSS** for fast, dynamic animations.  
 
-👉 [Check it out here!](#https://devpost.com/software/gauchocourse)  
+👉 [Check it out here!](https://devpost.com/software/gauchocourse)  
 
 ## 🌍 Preferred Work Locations  
 I am eager to secure **in-person internships** to gain practical, hands-on experience. My preferred locations include:  
