@@ -1,5 +1,3 @@
-# 👋 Ashwin Prabou's Portfolio  
-
 ## 🎓 About Me  
 Hi! I'm **Ashwin Prabou**, a junior at the University of California, Santa Cruz, set to graduate in **June 2026**. I’m pursuing a **B.S. in Computer Science** with a proposed minor in **Statistics**. My academic and project experiences have honed my skills in:  
 
